@@ -1,4 +1,4 @@
-# Hello, I'm Milo! 👋
+# Hi, I'm Milo! 👋
 
 I'm a high school student passionate about software engineering and creating cool projects. My main focus on GitHub is to explore, learn, and build various projects.
 
