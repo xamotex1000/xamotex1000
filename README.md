@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Milo
+- 👀 I’m 15, he/him
+- 📨 Message me on discord @xamotex1000
+- 👔 Striving to work for Valve 
