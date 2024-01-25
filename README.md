@@ -4,8 +4,8 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 ### About Me
 
-- 🎓 Currently navigating the challenges of high school.
-- 💻 Fascinated by software engineering and eager to delve into different programming languages and technologies.
+- 🎓 Currently in high school, doing highschool things.
+- 💻 Interested in software engineering and I like to try different programming languages and technologies.
 - 🌱 Currently expanding my proficiency in Python and delving into C# to broaden my skillset.
 
 ### Experience
@@ -20,7 +20,7 @@ I embarked on my programming journey at the age of 13 with a dream of designing 
 
 My uncle, a computer science graduate, introduced me to the performance benefits of Linux, prompting me to install Ubuntu and delve into Bash scripting for automation in Unix-based environments.
 
-Dabbling in C#, I ventured into modding a game I was passionate about, finding a warm and welcoming community of moderators. Despite encountering burnout during the final stretch of a mod, I took a break but remained inspired by the prospect of working at Valve, fueled by a friend's enthusiasm for Team Fortress 2 updates and my discovery of Valve's ideal work environment.
+Dabbling in C#, I ventured into modding a game I was passionate about, finding a warm and welcoming community of moderators. Despite encountering burnout during the final stretch of a mod, I took a break but remained inspired by the prospect of working at Valve, branching from the many positive aspects of Valve's work environment.
 
 Now, I'm dedicated to expanding my skills, aiming for a computer engineering degree, and ultimately pursuing a career at Valve in my early 20s.
 </details>
@@ -39,4 +39,4 @@ My main goal is to acquire enough skills to get hired at Valve. No other long-te
 
 ### Projects
 
-I enjoy building various projects to refine my skills and explore new technologies. While many of them are still in progress, I'm committed to completing them and showcasing my work. Stay tuned for updates!
+I enjoy building various projects to refine my skills and explore new technologies. Due to low motivation, tons of my projects were abandoned half way through development and never saw the light of day, but I'll finish them I swear!!!
