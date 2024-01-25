@@ -1,4 +1,4 @@
-## Hi, I'm Milo! 👋
+# Hi, I'm Milo! 👋
 
 I'm Milo, a high school student with a passion for software engineering and creating innovative projects. Here's a bit more about me:
 
