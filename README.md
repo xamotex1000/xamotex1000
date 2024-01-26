@@ -27,7 +27,7 @@ Now, I'm dedicated to expanding my skills, aiming for a computer engineering deg
 
 ### Contact Me
 
-You can reach out to me on Discord: [@xamotex1000](https://discord.com/users/xamotex1000). Whether you have questions, collaboration opportunities, or just want to chat, my DM's are open.
+You can reach out to me on Discord: [@xamotex1000](https://discord.com/users/xamotex1000). Whether you have questions, collaboration opportunities, or just want to chat, my Friend Requests are open.
 
 ### Collaboration Opportunities
 
