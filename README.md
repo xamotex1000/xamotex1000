@@ -11,7 +11,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 |<b>Primary Languages</b>|<b>Others Tried</b>|
 |-|-|
-|JavaScript|Python|
+|JavaScript/Node|Python|
 |HTML|C|
 |C#|PHP|
 |bash|TI-Basic|
