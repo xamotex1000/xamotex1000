@@ -10,8 +10,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 ### Experience
 
-- **Primary Languages**: JavaScript, HTML, Bash
-- **Learning**: C#
+- **Primary Languages**: JavaScript, HTML, Bash, C#
 - **Basic Understanding**: Python
 
 <details><summary>My Journey Into Programming</summary>
