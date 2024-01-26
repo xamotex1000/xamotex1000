@@ -9,9 +9,12 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 ### Experience
 
-|<b>Primary Languages</b>|<b>Other Known Languages</b>|
+|<b>Primary Languages</b>|<b>Others Tried</b>|
 |----------|----------|
-|JavaScript|HTML|C#|bash|
+|JavaScript|Python|
+|HTML|
+|C#|
+|bash|
 
 <p align="center"> <b>Other Languages I've Tried</b>
 Python</p>
