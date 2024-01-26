@@ -9,8 +9,9 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 ### Experience
 
-<p align="center"> <b>Primary Languages</b> (in order)</p>
-<p align="center"> JavaScript, HTML, C#, bash</p>
+<p align="center">| <b>Primary Languages</b> |</p>
+<p align="center">|-----------------------|</p>
+<p align="center">|JavaScript|HTML|C#|bash|</p>
 
 <p align="center"> <b>Other Languages I've Tried</b> </p>
 <p align="center"> Python</p>
