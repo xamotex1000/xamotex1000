@@ -6,7 +6,6 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 - 🎓 Currently in high school, doing highschool things.
 - 💻 Interested in software engineering and I like to try different programming languages and technologies.
-- 🌱 Currently delving into C# to broaden my skillset.
 
 ### Experience
 
