@@ -9,14 +9,12 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 ### Experience
 <p align="center">
-
 |<b>Primary Languages</b>|<b>Others Tried</b>|
 |----------|----------|
 |JavaScript|Python|
 |HTML|C|
 |C#|PHP|
 |bash|TI-Basic|
-
 </p>
 <details><summary>My Journey Into Programming</summary>
 
