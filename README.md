@@ -6,13 +6,13 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 - 🎓 Currently in high school, doing highschool things.
 - 💻 Interested in software engineering and I like to try different programming languages and technologies.
-- 🌱 Currently expanding my proficiency in Python and delving into C# to broaden my skillset.
+- 🌱 Currently delving into C# to broaden my skillset.
 
 ### Experience
 
 - **Primary Languages**: JavaScript, HTML, Bash
-- **Secondary**: Python
 - **Learning**: C#
+- **Basic Understanding**: Python
 
 <details><summary>My Journey Into Programming</summary>
 
