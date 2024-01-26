@@ -13,7 +13,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 <p align="center"> JavaScript, HTML, C#, bash</p>
 
 <p align="center"> <b>Other Languages I've Tried</b> </p>
-<p align="center"> JavaScript, HTML, Bash, C# </p>
+<p align="center"> Python</p>
 
 <details><summary>My Journey Into Programming</summary>
 
