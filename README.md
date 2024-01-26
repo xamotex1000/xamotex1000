@@ -4,12 +4,14 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 ### About Me
 
- - <center>🎓 Currently in high school, doing highschool things.</center>
+ - 🎓 Currently in high school, doing highschool things.
 - 💻 Interested in software engineering, I like to try different programming languages and technologies.
 
 ### Experience
 
-- **Primary Languages**: JavaScript, HTML, Bash, C#
+- **Primary Languages**
+<center>JavaScript, HTML, Bash, C#</center>
+
 - **Basic Understanding**: Python
 
 <details><summary>My Journey Into Programming</summary>
