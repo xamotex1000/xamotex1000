@@ -10,7 +10,6 @@ I'm Milo, a high school student with a passion for software engineering and crea
 ### Experience
 
 <p align="center"> <b>Primary Languages</b> </p>
-<br>
 <p align="center"> JavaScript, HTML, Bash, C# </p>
 
 - **Basic Understanding**: Python
