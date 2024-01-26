@@ -8,6 +8,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 - 💻 Interested in software engineering, I like to try different programming languages and technologies.
 
 ### Experience
+<p align="center">
 
 |<b>Primary Languages</b>|<b>Others Tried</b>|
 |----------|----------|
@@ -16,6 +17,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 |C#|PHP|
 |bash|TI-Basic|
 
+</p>
 <details><summary>My Journey Into Programming</summary>
 
 I embarked on my programming journey at the age of 13 with a dream of designing my own game. Starting in Unity, I quickly encountered the challenge of C# but found relief during my freshman year of high school when I enrolled in a computer programming class. There, I learned JavaScript essentials and was captivated by the endless possibilities. Experimenting with small projects, I later ventured into HTML to create a file-sharing website for friends.
