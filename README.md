@@ -47,7 +47,7 @@ I'm open to collaborating with other developers on projects. Whether it's pair p
 
 My main goal is to acquire enough skills to get hired at Valve. No other long-term goals or aspirations within the field of software engineering at the moment.
 
-### $${\color{red}Projects}$$
+### Projects
 
 I enjoy building various projects to refine my skills and explore new technologies. Due to low motivation, tons of my projects were abandoned half way through development and never saw the light of day, but I'll finish them I swear!!! also im currently more into application building than game building.
 
