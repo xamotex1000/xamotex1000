@@ -51,17 +51,4 @@ My main goal is to acquire enough skills to get hired at Valve. No other long-te
 
 I enjoy building various projects to refine my skills and explore new technologies. Due to low motivation, tons of my projects were abandoned half way through development and never saw the light of day, but I'll finish them I swear!!! also im currently more into application building than game building.
 
-My mood recently:
-(tryna make something cool here)
-
-<div style="width: 300px; height: 20px; background: linear-gradient(to right, red, green); position: relative;">
-  <div id="indicator" style="width: 20px; height: 20px; background-color: white; position: absolute; left: 0;"></div>
-</div>
-
-<style>
-  
-</style>
-
-<br>
-
 ![xamotex1000's Stats](https://github-readme-stats.vercel.app/api?username=xamotex1000&theme=cobalt&show_icons=true&hide_border=false&count_private=false)
