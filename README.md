@@ -1,4 +1,4 @@
-# Hi, I'm Milo! 👋
+# Hi, I'm Milo! 👋 
 
 I'm Milo, a high school student with a passion for software engineering and creating innovative projects. Here's a bit more about me:
 
@@ -26,7 +26,7 @@ My uncle, a computer science graduate, introduced me to the performance benefits
 
 Dabbling in C#, I ventured into modding a game I was passionate about, finding a warm and welcoming community of moderators. Despite encountering burnout during the final stretch of a mod, I took a break but remained inspired by the prospect of working at Valve, branching from the many positive aspects of Valve's work environment.
 
-Now, I'm dedicated to expanding my skills, aiming for a computer engineering degree, and ultimately pursuing a career at Valve in my early 20s.
+Now, I'm dedicated to expanding my skills, aiming for a computer engineering degree, and hoping to pursue a career at Valve in my early 20s.
 </details>
 
 ### Contact Me
@@ -39,7 +39,7 @@ You can reach out to me here:
 <br>
 I don't check any other social media dms, but whether you have questions, collaboration opportunities, or just want to chat, my Friend Requests are open.
 
-### Collaboration Opportunities
+### Collaboration
 
 I'm open to collaborating with other developers on projects. Whether it's pair programming, contributing to open-source projects, or joint project development, I'm down for whatever.
 
@@ -49,6 +49,11 @@ My main goal is to acquire enough skills to get hired at Valve. No other long-te
 
 ### Projects
 
-I enjoy building various projects to refine my skills and explore new technologies. Due to low motivation, tons of my projects were abandoned half way through development and never saw the light of day, but I'll finish them I swear!!! also im currently more into application building than game building
+I enjoy building various projects to refine my skills and explore new technologies. Due to low motivation, tons of my projects were abandoned half way through development and never saw the light of day, but I'll finish them I swear!!! also im currently more into application building than game building.
+
+My mood recently:
+<div style="width: 300px; height: 20px; background: linear-gradient(to right, red, green); position: relative;">
+  <div id="indicator" style="width: 20px; height: 20px; background-color: white; position: absolute; left: 0;"></div>
+</div>
 
 ![xamotex1000's Stats](https://github-readme-stats.vercel.app/api?username=xamotex1000&theme=cobalt&show_icons=true&hide_border=false&count_private=false)
