@@ -45,7 +45,7 @@ I'm open to collaborating with other developers on projects. Whether it's pair p
 
 ### Future Plans
 
-My main goal is to acquire enough skills to get hired at Valve. No other long-term goals or aspirations within the field of software engineering at the moment.
+My main goal is to acquire enough skills to get hired at Valve. Other than that I want to make my dream game before I turn 30. No other long-term goals or aspirations within the field of software engineering at the moment.
 
 ### Projects
 
