@@ -12,8 +12,8 @@ I'm Milo, a high school student with a passion for software engineering and crea
 |<b>Languages I Know</b>|<b>Confidence</b>|
 |-|-|
 |JavaScript/Node|9.5/10, My Main Language|
+|C#|7/10, Still learning|
 |Python|6/10, I know some stuff|
-|C#|5/10, Still learning|
 |bash|5/10, I use it randomly|
 |C|2/10, It's hard ok?|
 |PHP|1/10, I hate this language|
