@@ -32,7 +32,10 @@ Now, I'm dedicated to expanding my skills, aiming for a computer engineering deg
 ### Contact Me
 
 You can reach out to me on Discord:
-[<a href=https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg](https://discord.com/users/xamotex1000). Whether you have questions, collaboration opportunities, or just want to chat, my Friend Requests are open.
+<a href=https://discord.com/users/450702721763508235>
+<img srx=https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg>
+</a>
+Whether you have questions, collaboration opportunities, or just want to chat, my Friend Requests are open.
 
 ### Collaboration Opportunities
 
