@@ -33,7 +33,7 @@ Now, I'm dedicated to expanding my skills, aiming for a computer engineering deg
 
 You can reach out to me on Discord:
 <a href=https://discord.com/users/450702721763508235>
-<img src=https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg>
+<img src=https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg alt="Discord Profile" width=50 height=50>
 </a>
 Whether you have questions, collaboration opportunities, or just want to chat, my Friend Requests are open.
 
