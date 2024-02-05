@@ -9,6 +9,8 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 ### Experience
 
+I work best in a Linux environment (preferably using a bash shell)
+
 |<b>Languages I Know</b>|<b>Confidence</b>|
 |-|-|
 |<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js/JavaScript" height=32></img>|9.5/10, My Main Language|
