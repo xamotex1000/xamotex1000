@@ -13,7 +13,7 @@ I work best in a Linux environment (preferably using a bash shell)
 
 |<b>Languages I Know</b>|<b>Confidence</b>|
 |-|-|
-|<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js/JavaScript" height=32></img>|9.5/10, My Main Language|
+|<img src="https://img.shields.io/badge/JavaScript%20-%20%230050b1?style=flat&logo=Node.js&logoColor=%2350ff50" height=32></img>|9.5/10, My Main Language|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1280px-C_Sharp_Logo_2023.svg.png" alt="C#" height=32></img>|7/10, Still learning|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/972px-Python_logo_and_wordmark.svg.png" alt="Python" height=32></img>|6/10, I know some stuff|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/432px-Gnu-bash-logo.svg.png" alt="Bash" height=32></img>|5/10, I use it randomly|
