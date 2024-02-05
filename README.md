@@ -11,7 +11,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 |<b>Languages I Know</b>|<b>Confidence</b>|
 |-|-|
-|<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js/JavaScript" \>|9.5/10, My Main Language|
+|<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js/JavaScript"></img>|9.5/10, My Main Language|
 |C#|7/10, Still learning|
 |Python|6/10, I know some stuff|
 |bash|5/10, I use it randomly|
