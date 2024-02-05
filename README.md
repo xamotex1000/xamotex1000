@@ -17,7 +17,7 @@ I work best in a Linux environment (preferably using a bash shell)
 |<img src="https://img.shields.io/badge/C%20Sharp%20%20%20-%20%230050b1?style=flat&logo=C%23&logoColor=%23b10099" alt="C#" height=32></img>|7/10, Still learning|
 |<img src="https://img.shields.io/badge/Python%20-%20%230050b1?style=flat&logo=Python&logoColor=%23ffff00" alt="Python" height=32></img>|6/10, I know some stuff|
 |<img src="https://img.shields.io/badge/GNU%20Bash%20-%20%230050b1?style=flat&logo=GNU%20Bash&logoColor=%2360ff60" alt="Bash" height=32></img>|5/10, I use it randomly|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917" alt="C" height=32></img>|2/10, It's hard ok?|
+|<img src="https://img.shields.io/badge/C%20-%20%230050b1?style=flat&logo=C" alt="C" height=32></img>|2/10, It's hard ok?|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" height=32></img>|1/10, I hate this language|
 
 <details><summary>My Journey Into Programming</summary>
