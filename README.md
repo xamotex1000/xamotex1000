@@ -11,7 +11,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 I work best in a Linux environment (preferably using a bash shell)
 
-|<b>Languages I Know</b>|<b>Confidence</b>|
+|<b>Language</b>|<b>Confidence</b>|
 |-|-|
 |<img src="https://img.shields.io/badge/JavaScript%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|9.5/10, My Main Language|
 |<img src="https://img.shields.io/badge/C%20Sharp%20%20%20-%20%230050b1?style=flat&logo=C%23&logoColor=%23900090" alt="C#" height=32></img>|7/10, Still learning|
