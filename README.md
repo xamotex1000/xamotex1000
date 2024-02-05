@@ -13,7 +13,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 |-|-|
 |<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js/JavaScript"></img>|9.5/10, My Main Language|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1280px-C_Sharp_Logo_2023.svg.png" alt="C#" width=32 height=32></img>|7/10, Still learning|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/972px-Python_logo_and_wordmark.svg.png" alt="Python" height=20></img>|6/10, I know some stuff|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/972px-Python_logo_and_wordmark.svg.png" alt="Python" height=30></img>|6/10, I know some stuff|
 |bash|5/10, I use it randomly|
 |C|2/10, It's hard ok?|
 |PHP|1/10, I hate this language|
