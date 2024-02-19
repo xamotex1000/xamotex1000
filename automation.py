@@ -6,7 +6,7 @@ def read_config_file(filename):
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
     return config
-config = read_config_file('config.conf')
+config = read_config_file('./config.conf')
 class Stats:
     def __init__(self):
         self.username = config.get('username')
