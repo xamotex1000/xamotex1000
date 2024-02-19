@@ -1,8 +1,3 @@
-# Example config.conf file:
-# username = my_username
-# password = my_password
-# server = my_server
-
 def read_config_file(filename):
     config = {}
     with open(filename, 'r') as file:
@@ -11,38 +6,15 @@ def read_config_file(filename):
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
     return config
-
-def main():
-    config_filename = 'config.conf'
-    config = read_config_file(config_filename)
-    
-    # Assign variables based on config values
-    username = config.get('username')
-    password = config.get('password')
-    server = config.get('server')
-    
-    # Use the variables
-    print(f"Username: {username}")
-    print(f"Password: {password}")
-    print(f"Server: {server}")
-
-if __name__ == "__main__":
-    main()
-
-
-
-
-
-
-
+config = read_config_file('config.conf')
 class Stats:
     def __init__(self):
-        self.username = "xamotex1000"
-        self.theme = "cobalt"
-#default, dark, radical, merko, grubbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-        self.show_icons = "true"
-        self.hide_border = "false"
-        self.count_private = "true"
+        self.username = config.get('username')
+        self.theme = config.get('theme')
+#default, dark, radical, merko, grubby, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+        self.show_icons = config.get('show icons')
+        self.hide_border = config.get('hide border')
+        self.count_private = config.get('count private')
 
 def change_file_contents(file_path, new_content):
     try:
@@ -64,5 +36,3 @@ new_content = f'''
 </html>
 '''
 change_file_contents(file_path, new_content)
-def test_change_file_contents():
-    x = 0
