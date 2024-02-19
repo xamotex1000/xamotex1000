@@ -37,3 +37,6 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+  runfile:
+    - name: Run the script
+      run: python automation.py
