@@ -1,4 +1,4 @@
-class Stats
+class Stats:
     def __init__(self):
         self.username = "xamotex1000"
         self.theme = "cobalt"
