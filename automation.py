@@ -17,11 +17,12 @@ def change_file_contents(file_path, new_content):
     except Exception as e:
         print(f"An error occurred: {e}")
 
+stats = Stats()
 file_path = "./GHRMStats.html"
 new_content = f'''
 <html>
 <head>
-    <meta http-equiv="refresh" url="https://github-readme-stats.vercel.app/api?username={Stats.username}&theme={Stats.theme}&show_icons={Stats.show_icons}&hide_border={Stats.hide_border}&count_private={Stats.count_private}">
+    <meta http-equiv="refresh" url="https://github-readme-stats.vercel.app/api?username={stats.username}&theme={stats.theme}&show_icons={stats.show_icons}&hide_border={stats.hide_border}&count_private={stats.count_private}">
 </head>
 </html>
 '''
