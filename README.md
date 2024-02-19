@@ -19,7 +19,7 @@ I work best in a Linux environment (preferably using a bash shell)
 |<img src="https://img.shields.io/badge/Python%20-%20%230050b1?style=flat&logo=Python&logoColor=%23ffff00" alt="Python" height=32></img>|6/10, I Know Some Stuff|
 |<img src="https://img.shields.io/badge/GNU%20Bash%20-%20%230050b1?style=flat&logo=GNU%20Bash" alt="Bash" height=32></img>|5/10, I Use It On Occasion|
 |<img src="https://img.shields.io/badge/C%20-%20%230050b1?style=flat&logo=C" alt="C" height=32></img>|2/10, It's Hard Ok?|
-|<img src="https://img.shields.io/badge/PHP%20-%20%230050b1?style=flat&logo=Php&logoColor=%23000090" alt="PHP" height=32></img>|1/10, I Hate This Language. ww|
+|<img src="https://img.shields.io/badge/PHP%20-%20%230050b1?style=flat&logo=Php&logoColor=%23000090" alt="PHP" height=32></img>|1/10, I Hate This Language.|
 
 <details><summary>My Journey Into Programming</summary>
 
