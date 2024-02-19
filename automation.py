@@ -1,3 +1,40 @@
+# Example config.conf file:
+# username = my_username
+# password = my_password
+# server = my_server
+
+def read_config_file(filename):
+    config = {}
+    with open(filename, 'r') as file:
+        for line in file:
+            if '=' in line:
+                key, value = line.split('=')
+                config[key.strip()] = value.strip()
+    return config
+
+def main():
+    config_filename = 'config.conf'
+    config = read_config_file(config_filename)
+    
+    # Assign variables based on config values
+    username = config.get('username')
+    password = config.get('password')
+    server = config.get('server')
+    
+    # Use the variables
+    print(f"Username: {username}")
+    print(f"Password: {password}")
+    print(f"Server: {server}")
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+
+
 class Stats:
     def __init__(self):
         self.username = "xamotex1000"
