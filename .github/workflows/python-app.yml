@@ -6,7 +6,7 @@ name: Configure Stuff
 on:
   push:
     paths:
-      - automation.py
+      - config.conf
 
 permissions:
   contents: read
