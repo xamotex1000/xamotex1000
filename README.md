@@ -53,4 +53,4 @@ My main goal is to acquire enough skills to get hired at Valve. Other than that 
 
 I enjoy building various projects to refine my skills and explore new technologies. Due to low motivation, tons of my projects were abandoned half way through development and never saw the light of day, but I'll finish them I swear!!! also im currently more into application building than game building.
 
-<img src=GHRMStats.html>
+![xamotex1000's GitHub Stats](GHRMStats.html)
