@@ -40,6 +40,8 @@ jobs:
     - name: Run the Script
       run: |
         python automation.py
+    - name: Set Email
+      run: git config --global user.email "milojordanbrown@gmail.com"
     - name: stage changed files
       run: git add .
     - name: commit changed files
