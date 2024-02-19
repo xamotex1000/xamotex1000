@@ -28,4 +28,4 @@ new_content = f'''
 '''
 change_file_contents(file_path, new_content)
 def test_change_file_contents():
-    var x = 0
+    x = 0
