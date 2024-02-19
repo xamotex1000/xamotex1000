@@ -42,6 +42,8 @@ jobs:
         python automation.py
     - name: Set Email
       run: git config --global user.email "milojordanbrown@gmail.com"
+    - name: Set Name
+      run: git config --global user.name "xamotex1000"
     - name: stage changed files
       run: git add .
     - name: commit changed files
