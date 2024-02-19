@@ -5,9 +5,8 @@ name: Configure Stuff
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    paths:
+      - automation.py
 
 permissions:
   contents: read
