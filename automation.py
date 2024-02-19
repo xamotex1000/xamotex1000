@@ -22,7 +22,7 @@ file_path = "./GHRMStats.html"
 new_content = f'''
 <html>
 <head>
-    <meta http-equiv="refresh" url="https://github-readme-stats.vercel.app/api?username={stats.username}&theme={stats.theme}&show_icons={stats.show_icons}&hide_border={stats.hide_border}&count_private={stats.count_private}">
+    <meta http-equiv="refresh" content="0; url=https://github-readme-stats.vercel.app/api?username={stats.username}&theme={stats.theme}&show_icons={stats.show_icons}&hide_border={stats.hide_border}&count_private={stats.count_private}">
 </head>
 </html>
 '''
