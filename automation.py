@@ -27,7 +27,7 @@ def change_file_contents(file_path, new_content):
         print(f"An error occurred: {e}")
 
 stats = Stats()
-file_path = "./GHRMStats.html"
+file_path = "./ReadMe.md"
 new_content = f'''
 # Hi, I'm Milo! 👋 
 
