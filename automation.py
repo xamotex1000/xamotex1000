@@ -26,4 +26,5 @@ new_content = f'''
 </head>
 </html>
 '''
-change_file_contents(file_path, new_content)
+def test_change_file_contents():
+    change_file_contents(file_path, new_content)
