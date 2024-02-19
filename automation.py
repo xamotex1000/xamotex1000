@@ -1,7 +1,7 @@
 class Stats:
     def __init__(self):
         self.username = "xamotex1000"
-        self.theme = "cobalt" 
+        self.theme = "cobalt"
 #default, dark, radical, merko, grubbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
         self.show_icons = "true"
         self.hide_border = "false"
