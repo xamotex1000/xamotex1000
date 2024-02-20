@@ -39,6 +39,6 @@ def change_file_contents(file_path, new_content):
 
 stats = Stats()
 file_path = "./README.md"
-list_string = 
-new_content = contents.replace("VARLIST", list_string)
+list_string = "|<b>Language</b>|<b>Confidence</b>|\n|-|-|"
+list_string+=`\n|<img src="https://img.shields.io/badge/`+config["list"][i][0]+`%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|`+config["list"][i][1]+`/10, `+config["list"][i][2]+`|`
 change_file_contents(file_path, new_content)
