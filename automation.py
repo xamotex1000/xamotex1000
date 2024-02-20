@@ -5,6 +5,14 @@ def read_config_file(filename):
             if '=' in line:
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
+            config_array = []
+            if line.startswith("V["):
+                element = []
+                prefix, array = line.split("[")
+                element = array.split(", ")
+                config_array.append(element)
+                print(config_array)
+                
     return config
 config = read_config_file('./config.conf')
 class Stats:
