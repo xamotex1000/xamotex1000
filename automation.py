@@ -41,5 +41,5 @@ stats = Stats()
 file_path = "./README.md"
 for i, item in enumerate(config["list"]):
     list_string = "|<b>Language</b>|<b>Confidence</b>|\n|-|-|"
-list_string+=`\n|<img src="https://img.shields.io/badge/`+config["list"][i][0]+`%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|`+config["list"][i][1]+`/10, `+config["list"][i][2]+`|`
+list_string+='\n|<img src="https://img.shields.io/badge/'+config["list"][i][0]+'%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|'+config["list"][i][1]+'/10, '+config["list"][i][2]+'|'
 change_file_contents(file_path, new_content)
