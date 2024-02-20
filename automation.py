@@ -10,7 +10,7 @@ def read_config_file(filename):
                 element = []
                 prefix, array = line.split("[")
                 element = array.split(", ")
-                 config_array.append(element.replace("\n", ""))
+                config_array.append(element.replace("\n", ""))
                 print(config_array)
                 
     return config
