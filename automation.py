@@ -39,5 +39,6 @@ def change_file_contents(file_path, new_content):
 
 stats = Stats()
 file_path = "./README.md"
-new_content = contents.replace("", "")
+list_string = 
+new_content = contents.replace("VARLIST", list_string)
 change_file_contents(file_path, new_content)
