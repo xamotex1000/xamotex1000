@@ -11,8 +11,7 @@ def read_config_file(filename):
                 prefix, array = line.split("[")
                 element = array.split(", ")
                 config_array.append(element[0], element[1], [element[2].replace("\n", "")])
-                print(config_array)
-                
+    config["list"] = config_array
     return config
 config = read_config_file('./config.conf')
 class Stats:
