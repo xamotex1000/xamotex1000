@@ -1,11 +1,11 @@
 def read_config_file(filename):
     config = {}
+    config_array = []
     with open(filename, 'r') as file:
         for line in file:
             if '=' in line:
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
-            config_array = []
             if line.startswith("V["):
                 element = []
                 prefix, array = line.split("[")
