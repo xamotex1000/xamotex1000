@@ -9,7 +9,7 @@ def read_config_file(filename):
             line.replace("\n", "")
             end_line = index
             print(line)
-            if multiline == False and line.includes("---"):
+            if multiline == False and "---" in line:
                 print("multi")
                 multiline = True
                 multiline_stop = False
@@ -17,14 +17,14 @@ def read_config_file(filename):
                 found_end = False
                 line_index = index
                 while found_end == False:
-                    if file[line_index].includes("---") == False:
+                    if not "---" in file[line_index]:
                         found_end = True
                         end_line = line_index
                     else:
                         line_index+= 1
                 if (multiline == False and line.startswith("V[")):
                     multiline_type = "LangList"
-            elif line.endswith("---"):
+            elif "---" in line:
                 multiline_stop = True
             if multiline_stop == False and '=' in line:
                 key, value = line.split('=')
