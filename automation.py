@@ -31,7 +31,7 @@ def read_config_file(filename):
                     array+=file[index+1+i].replace("---", ", ")
                 element = array.split(", ")
                 config_array.append(element)
-            if multiline && line.endswith("---") == False:
+            if multiline and line.endswith("---") == False:
                 multiline = False
                 multiline_stop = False
                 multiline_type = ""
