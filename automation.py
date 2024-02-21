@@ -2,15 +2,27 @@ def read_config_file(filename):
     config = {}
     config_array = []
     with open(filename, 'r') as file:
-        for line in file:
+        for index, line in enumerate(file):
+            multiline = False
+            end_line = index
+            if line.endswith("---"):
+                multiline = True
+                found_end = False
+                line_index = index
+                while !found_end:
+                    if !file[line_index].endswith("---"):
+                        found_end = True
+                        end_line = line_index
+                    else:
+                        line_index++
             if '=' in line:
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
             if line.startswith("V["):
                 element = []
-                prefix, array = line.split("[")
+                array = line.replace("V[", "").replace
                 element = array.split(", ")
-                config_array.append([element[0], element[1], element[2], element[3], element[4].replace("\n", "")])
+                config_array.append([element[0], element[1], element[2], element[3], element[4].replace("\n", "")]
     config["list"] = config_array
     return config
 config = read_config_file('./config.conf')
