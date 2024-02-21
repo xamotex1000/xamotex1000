@@ -1,6 +1,7 @@
 def read_config_file(filename):
     config = {}
     config_array = []
+    multiline = False
     with open(filename, 'r') as file:
         for index, line in enumerate(file):
             line.replace("\n", "")
