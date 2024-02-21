@@ -24,7 +24,7 @@ def read_config_file(filename):
             if multiline_stop == False and '=' in line:
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
-            if (multiline_stop == False and line.startswith("V[")) || multiline_type == "LangList":
+            if (multiline_stop == False and line.startswith("V[")) or multiline_type == "LangList":
                 element = []
                 array = line.replace("V[", "").replace("---", "")
                 for i in enumerate(end_line-index-1):
