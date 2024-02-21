@@ -15,7 +15,7 @@ I work best in a Linux environment (preferably using a bash shell)
 |<b>Language</b>|<b>Confidence</b>|
 |-|-|
 |<img src="https://img.shields.io/badge/Javascript%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|9.5/10, My Main Language|
-|<img src='https://img.shields.io/badge/C#%20-%20%230050b1?style=flat&logo=CSharp' height=32></img>|6/10, Still Learning|
+|<img src='https://img.shields.io/badge/CSharp%20-%20%230050b1?style=flat&logo=CSharp' height=32></img>|6/10, Still Learning|
 |<img src="https://img.shields.io/badge/Python%20-%20%230050b1?style=flat&logo=Python" height=32></img>|6/10, I Know Some Stuff|
 |<img src="https://img.shields.io/badge/Bash%20-%20%230050b1?style=flat&logo=Bash" height=32></img>|5/10, I Use It On Occasion|
 |<img src="https://img.shields.io/badge/C%20-%20%230050b1?style=flat&logo=C" height=32></img>|2/10, It's Hard Ok?|
