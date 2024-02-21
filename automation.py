@@ -5,33 +5,33 @@ def read_config_file(filename):
         for index, line in enumerate(file):
             line.replace("\n", "")
             end_line = index
-            if !multiline && line.endswith("---"):
+            if multiline == False && line.endswith("---"):
                 multiline = True
                 multiline_stop = False
                 multiline_type = ""
                 found_end = False
                 line_index = index
                 while !found_end:
-                    if !file[line_index].endswith("---"):
+                    if file[line_index].endswith("---") == False:
                         found_end = True
                         end_line = line_index
                     else:
                         line_index++
-                if (!multiline && line.startswith("V["))
+                if (multiline == False && line.startswith("V["))
                     multiline_type = "LangList"
             elif line.endswith("---"):
                 multiline_stop = True
-            if !multiline_stop && '=' in line:
+            if multiline_stop == False && '=' in line:
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
-            if (!multiline_stop && line.startswith("V[")) || multiline_type == "LangList":
+            if (multiline_stop == False && line.startswith("V[")) || multiline_type == "LangList":
                 element = []
                 array = line.replace("V[", "").replace("---", "")
                 for i in enumerate(end_line-index-1):
                     array+=file[index+1+i].replace("---", ", ")
                 element = array.split(", ")
                 config_array.append(element)
-            if multiline && !line.endswith("---"):
+            if multiline && line.endswith("---") == False:
                 multiline = False
                 multiline_stop = False
                 multiline_type = ""
