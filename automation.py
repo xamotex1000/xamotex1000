@@ -17,7 +17,7 @@ def read_config_file(filename):
                 found_end = False
                 line_index = index
                 while found_end == False:
-                    if not "---" in file[line_index]:
+                    if "---" not in file[line_index]:
                         found_end = True
                         end_line = line_index
                     else:
