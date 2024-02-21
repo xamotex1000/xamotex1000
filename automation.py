@@ -10,7 +10,7 @@ def read_config_file(filename):
                 element = []
                 prefix, array = line.split("[")
                 element = array.split(", ")
-                config_array.append([element[0], element[1], element[2].replace("\n", "")])
+                config_array.append([element[0], element[1], element[2], element[3].replace("\n", "")])
     config["list"] = config_array
     return config
 config = read_config_file('./config.conf')
@@ -40,6 +40,6 @@ stats = Stats()
 file_path = "./README.md"
 list_string = "|<b>Language</b>|<b>Confidence</b>|\n|-|-|"
 for i, item in enumerate(config["list"]):
-    list_string+='\n|<img src="https://img.shields.io/badge/'+config["list"][i][0]+'%20-%20%230050b1?style=flat&logo='+config["list"][i][0]+' height=32></img>|'+config["list"][i][1]+'/10, '+config["list"][i][2]+'|'
+    list_string+='\n|<img src="https://img.shields.io/badge/'+config["list"][i][0]+'%20-%20%230050b1?style=flat&logo='+config["list"][i][2]+' height=32></img>|'+config["list"][i][1]+'/10, '+config["list"][i][3]+'|'
 new_content = contents.replace("VARLIST", list_string).replace("VARSTATS", "https://github-readme-stats.vercel.app/api?username="+config["username"]+"&title_color="+config["title"]+"&text_color="+config["text"]+"&border_color="+config["border"]+"&bg_color="+config["background"])
 change_file_contents(file_path, new_content)
