@@ -14,12 +14,12 @@ I work best in a Linux environment (preferably using a bash shell)
 
 |<b>Language</b>|<b>Confidence</b>|
 |-|-|
-|<img src="https://img.shields.io/badge/JavaScript%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|9.5/10, My Main Language|
-|<img src="https://img.shields.io/badge/C%20Sharp%20%20%20-%20%230050b1?style=flat&logo=C%23&logoColor=%23900090" alt="C#" height=32></img>|6/10, Still Learning|
-|<img src="https://img.shields.io/badge/Python%20-%20%230050b1?style=flat&logo=Python&logoColor=%23ffff00" alt="Python" height=32></img>|6/10, I Know Some Stuff|
-|<img src="https://img.shields.io/badge/GNU%20Bash%20-%20%230050b1?style=flat&logo=GNU%20Bash" alt="Bash" height=32></img>|5/10, I Use It On Occasion|
-|<img src="https://img.shields.io/badge/C%20-%20%230050b1?style=flat&logo=C" alt="C" height=32></img>|2/10, It's Hard Ok?|
-|<img src="https://img.shields.io/badge/PHP%20-%20%230050b1?style=flat&logo=Php&logoColor=%23000090" alt="PHP" height=32></img>|1/10, I Hate This Language.|
+|<img src="https://img.shields.io/badge/Javascript%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|9.5/10, My Main Language|
+|<img src="https://img.shields.io/badge/C#%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|6/10, Still Learning|
+|<img src="https://img.shields.io/badge/Python%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|6/10, I Know Some Stuff|
+|<img src="https://img.shields.io/badge/Bash%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|5/10, I Use It On Occasion|
+|<img src="https://img.shields.io/badge/C%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|2/10, It's Hard Ok?|
+|<img src="https://img.shields.io/badge/PHP%20-%20%230050b1?style=flat&logo=Node.js" height=32></img>|1/10, I Hate This Language|
 
 <details><summary>My Journey Into Programming</summary>
 
@@ -54,4 +54,4 @@ My main goal is to acquire enough skills to get hired at Valve. Other than that 
 
 I enjoy building various projects to refine my skills and explore new technologies. Due to low motivation, tons of my projects were abandoned half way through development and never saw the light of day, but I'll finish them I swear!!! also im currently more into application building than game building.
 
-![xamotex1000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xamotex1000&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+![xamotex1000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xamotex1000&title_color=803030&text_color=b1b1b1&border_color=303030&bg_color=000010)
