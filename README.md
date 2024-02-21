@@ -14,12 +14,12 @@ I work best in a Linux environment (preferably using a bash shell)
 
 |<b>Language</b>|<b>Confidence</b>|
 |-|-|
-|<img src="https://img.shields.io/badge/JavaScript%20-%20%230050b1?style=flat&logo=My Main Language height=32></img>|9.5/10, Node.js|
-|<img src="https://img.shields.io/badge/CSharp%20-%20%230050b1?style=flat&logo=Still Learning height=32></img>|6/10, CS|
-|<img src="https://img.shields.io/badge/Python%20-%20%230050b1?style=flat&logo=I Know Some Stuff height=32></img>|6/10, Python|
-|<img src="https://img.shields.io/badge/Bash%20-%20%230050b1?style=flat&logo=I Use It On Occasion height=32></img>|5/10, GNUBash|
-|<img src="https://img.shields.io/badge/C%20-%20%230050b1?style=flat&logo=It's Hard Ok? height=32></img>|2/10, C|
-|<img src="https://img.shields.io/badge/PHP%20-%20%230050b1?style=flat&logo=I Hate This Language height=32></img>|1/10, PHP|
+|<img src="https://img.shields.io/badge/JavaScript%20-%20%230050b1?style=flat&logo=Node.js height=32></img>|9.5/10, My Main Language|
+|<img src="https://img.shields.io/badge/CSharp%20-%20%230050b1?style=flat&logo=CS height=32></img>|6/10, Still Learning|
+|<img src="https://img.shields.io/badge/Python%20-%20%230050b1?style=flat&logo=Python height=32></img>|6/10, I Know Some Stuff|
+|<img src="https://img.shields.io/badge/Bash%20-%20%230050b1?style=flat&logo=GNUBash height=32></img>|5/10, I Use It On Occasion|
+|<img src="https://img.shields.io/badge/C%20-%20%230050b1?style=flat&logo=C height=32></img>|2/10, It's Hard Ok?|
+|<img src="https://img.shields.io/badge/PHP%20-%20%230050b1?style=flat&logo=PHP height=32></img>|1/10, I Hate This Language|
 
 <details><summary>My Journey Into Programming</summary>
 
