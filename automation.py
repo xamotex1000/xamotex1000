@@ -27,7 +27,6 @@ class Stats:
 
 with open('README Template.md', 'r') as file:
     contents = file.read()
-    print(contents)
 
 def change_file_contents(file_path, new_content):
     try:
