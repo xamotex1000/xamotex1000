@@ -30,7 +30,7 @@ def read_config_file(filename):
             if (multiline_stop == False and line.startswith("V[")) or multiline_type == "LangList":
                 element = []
                 array = line.replace("V[", "").replace("---", "")
-                for i in enumerate(end_line-index-1):
+                for i in range(end_line-index-1):
                     array+=file[index+1+i].replace("---", ", ")
                 element = array.split(", ")
                 config_array.append(element)
