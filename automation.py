@@ -9,6 +9,7 @@ def read_config_file(filename):
             line.replace("\n", "")
             end_line = index
             if multiline == False and line.endswith("---"):
+                print("multi")
                 multiline = True
                 multiline_stop = False
                 multiline_type = ""
