@@ -17,7 +17,7 @@ def read_config_file(filename):
                         end_line = line_index
                     else:
                         line_index+= 1
-                if (multiline == False and line.startswith("V["))
+                if (multiline == False and line.startswith("V[")):
                     multiline_type = "LangList"
             elif line.endswith("---"):
                 multiline_stop = True
