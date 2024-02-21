@@ -11,7 +11,7 @@ def read_config_file(filename):
                 multiline_type = ""
                 found_end = False
                 line_index = index
-                while !found_end:
+                while found_end == False:
                     if file[line_index].endswith("---") == False:
                         found_end = True
                         end_line = line_index
