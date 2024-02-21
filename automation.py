@@ -18,7 +18,6 @@ class Stats:
     def __init__(self):
         self.username = config.get('username')
         self.theme = config.get('theme')
-#default, dark, radical, merko, grubby, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
         self.show_icons = config.get('show icons')
         self.hide_border = config.get('hide border')
         self.count_private = config.get('count private')
