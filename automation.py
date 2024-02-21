@@ -3,10 +3,12 @@ def read_config_file(filename):
     config_array = []
     with open(filename, 'r') as file:
         for index, line in enumerate(file):
-            multiline = False
+            line.replace("\n", "")
             end_line = index
-            if line.endswith("---"):
+            if !multiline && line.endswith("---"):
                 multiline = True
+                multiline_stop = False
+                multiline_type = ""
                 found_end = False
                 line_index = index
                 while !found_end:
@@ -15,14 +17,24 @@ def read_config_file(filename):
                         end_line = line_index
                     else:
                         line_index++
-            if '=' in line:
+                if (!multiline && line.startswith("V["))
+                    multiline_type = "LangList"
+            elif line.endswith("---"):
+                multiline_stop = True
+            if !multiline_stop && '=' in line:
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
-            if line.startswith("V["):
+            if (!multiline_stop && line.startswith("V[")) || multiline_type == "LangList":
                 element = []
-                array = line.replace("V[", "").replace
+                array = line.replace("V[", "").replace("---", "")
+                for i in enumerate(end_line-index-1):
+                    array+=file[index+1+i].replace("---", ", ")
                 element = array.split(", ")
-                config_array.append([element[0], element[1], element[2], element[3], element[4].replace("\n", "")]
+                config_array.append(element)
+            if multiline && !line.endswith("---"):
+                multiline = False
+                multiline_stop = False
+                multiline_type = ""
     config["list"] = config_array
     return config
 config = read_config_file('./config.conf')
