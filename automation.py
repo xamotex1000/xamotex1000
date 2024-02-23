@@ -23,17 +23,16 @@ def read_config_file(filename):
             if multiline_stop == False and '=' in line:
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
-            if (multiline_stop == False and line.startswith("V[")) or multiline_type == "LangList":
+            if line.startswith("V[") and line.endswith("---") == false:
                 element = []
-                array = line.replace("V[", "").replace("---", "")
+                array = line.replace("V[", "")
                 print(array)
-                for i in range(end_line-index-1):
+                element = array.split(", ")
+                config_array.append(element)
                     array+=file[index+1+i].replace("---", ", ").replace("\n", "")
                 print(array)
-            if multiline and line.endswith("---") == False:
-                multiline = False
-                multiline_stop = False
-                multiline_type = ""
+                
+        
     config["list"] = config_array
     return config
 config = read_config_file('./config.conf')
