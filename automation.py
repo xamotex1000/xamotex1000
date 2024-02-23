@@ -1,4 +1,6 @@
 import linecache
+false = False
+true = True
 def read_config_file(filename):
     config = {}
     config_array = []
