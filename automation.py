@@ -15,7 +15,7 @@ def read_config_file(filename):
                 print("multi")
                 multiline = True
                 recent_multiline = [line.replace("---", "").replace("\n", "")]
-            if multiline == True:
+            elif multiline == True:
                 recent_multiline.append(line.replace("---", "").replace("\n", ""))
                 if "---" not in line:
                     config_array.append(recent_multiline)
@@ -29,10 +29,7 @@ def read_config_file(filename):
                 print(array)
                 for i in range(end_line-index-1):
                     array+=file[index+1+i].replace("---", ", ").replace("\n", "")
-                    print(array)
                 print(array)
-                element = array.split(", ")
-                config_array.append(element)
             if multiline and line.endswith("---") == False:
                 multiline = False
                 multiline_stop = False
