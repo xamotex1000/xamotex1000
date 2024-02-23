@@ -29,10 +29,6 @@ def read_config_file(filename):
                 print(array)
                 element = array.split(", ")
                 config_array.append(element)
-                    array+=file[index+1+i].replace("---", ", ").replace("\n", "")
-                print(array)
-                
-        
     config["list"] = config_array
     return config
 config = read_config_file('./config.conf')
