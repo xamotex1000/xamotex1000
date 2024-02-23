@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - config.conf
+      - automation.py
 
 permissions:
   contents: read
