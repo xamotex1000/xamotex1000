@@ -5,6 +5,7 @@ def read_config_file(filename):
     multiline = False
     multiline_stop = False
     multiline_type = ""
+    recent_multiline = []
     with open(filename, 'r') as file:
         for index, line in enumerate(file):
             line = line.replace("\n", "")
@@ -13,23 +14,12 @@ def read_config_file(filename):
             if multiline == False and "---" in line:
                 print("multi")
                 multiline = True
-                multiline_stop = False
-                multiline_type = ""
-                found_end = False
-                line_index = index
-                while found_end == False:
-                    if "---" not in linecache.getline(filename, line_index):
-                        print("found end")
-                        found_end = True
-                        end_line = line_index
-                    else:
-                        print("appendline")
-                        line += ", " +(linecache.getline(filename, line_index).replace("---", "").replace("\n", ""))
-                        line_index+= 1
-                if (line.startswith("V[")):
-                    multiline_type = "LangList"
-            elif "---" in line:
-                multiline_stop = True
+                recent_multiline = [line.replace("---", "").replace("\n", "")]
+            if multiline == True:
+                recent_multiline.append(line.replace("---", "").replace("\n", ""))
+                if "---" not in line:
+                    config_array.append(recent_multiline)
+                    multiline = False
             if multiline_stop == False and '=' in line:
                 key, value = line.split('=')
                 config[key.strip()] = value.strip()
