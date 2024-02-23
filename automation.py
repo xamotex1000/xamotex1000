@@ -7,7 +7,7 @@ def read_config_file(filename):
     multiline_type = ""
     with open(filename, 'r') as file:
         for index, line in enumerate(file):
-            line.replace("\n", "")
+            line = line.replace("\n", "")
             end_line = index
             print(line)
             if multiline == False and "---" in line:
@@ -19,12 +19,14 @@ def read_config_file(filename):
                 line_index = index
                 while found_end == False:
                     if "---" not in linecache.getline(filename, line_index):
+                        print("found end")
                         found_end = True
                         end_line = line_index
                     else:
+                        print(appendline)
                         line += ", " +(linecache.getline(filename, line_index).replace("---", "").replace("\n", ""))
                         line_index+= 1
-                if (multiline == False and line.startswith("V[")):
+                if (line.startswith("V[")):
                     multiline_type = "LangList"
             elif "---" in line:
                 multiline_stop = True
