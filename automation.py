@@ -22,6 +22,7 @@ def read_config_file(filename):
                         found_end = True
                         end_line = line_index
                     else:
+                        line += ", " +(linecache.getline(filename, line_index).replace("---", "").replace("\n", ""))
                         line_index+= 1
                 if (multiline == False and line.startswith("V[")):
                     multiline_type = "LangList"
