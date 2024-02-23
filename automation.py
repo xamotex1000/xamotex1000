@@ -1,3 +1,4 @@
+import linecache
 def read_config_file(filename):
     config = {}
     config_array = []
@@ -17,7 +18,7 @@ def read_config_file(filename):
                 found_end = False
                 line_index = index
                 while found_end == False:
-                    if "---" not in file[line_index]:
+                    if "---" not in linecache.getline(file, line_index):
                         found_end = True
                         end_line = line_index
                     else:
