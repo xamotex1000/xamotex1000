@@ -10,8 +10,6 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 ### Experience
 
-I work best in a Linux environment (preferably using a bash shell)
-
 |<b>Language</b>|<b>Confidence</b>|
 |-|-|
 |<img src="https://img.shields.io/badge/JavaScript%20-%20%230050b1?style=flat&logo=Node.js&logoColor=68a063" height=32></img>|9.5/10, My Main Language|
@@ -24,13 +22,13 @@ I work best in a Linux environment (preferably using a bash shell)
 
 <details><summary>My Journey Into Programming</summary>
 
-I embarked on my programming journey at the age of 13 with a dream of designing my own game. Starting in Unity, I quickly encountered the challenge of C# but found relief during my freshman year of high school when I enrolled in a computer programming class. There, I learned JavaScript essentials and was captivated by the endless possibilities. Experimenting with small projects, I later ventured into HTML to create a file-sharing website for friends.
+I embarked on my programming journey at the age of 13 with a dream of designing my own game. Starting in Unity, I quickly encountered the challenge of C# but found relief during my freshman year of high school when I enrolled in a computer programming class. There, I learned JavaScript essentials and was captivated by the endless possibilities. Experimenting with small projects, I later ventured into HTML to create a file-sharing website for my friends. Later that year, one of my friends started joking about me getting a job at Valve, as he had wanted them to make a Team Fortress 2 update. This prompted me to look into it and find out that Valve had the exact working structure that matched my style.
 
-My uncle, a computer science graduate, introduced me to the performance benefits of Linux, prompting me to install Ubuntu and delve into Bash scripting for automation in Unix-based environments.
+Dabbling in C#, I ventured into modding a game I was passionate about, finding a warm and welcoming community of moderators. Despite encountering burnout during the final stretch of my mod, I took a break from development, eventually abandoning the project after the games developers added the main idea of the mod to the game.
 
-Dabbling in C#, I ventured into modding a game I was passionate about, finding a warm and welcoming community of moderators. Despite encountering burnout during the final stretch of a mod, I took a break but remained inspired by the prospect of working at Valve, branching from the many positive aspects of Valve's work environment.
+Roughly 6 months passed by and I joined a Youtuber's minecraft server. I enjoyed the server for a while before asking the now owner of the server if i could join the development team. He decided to give me a chance and let me show my skills. He later gave me a future update to work on, and i focused on adding many features for that update. A few days later, I was informed that the server would be going under a rebrand, as the owner decided that they wanted to step away. The new owner and I would brainstorm names for the server as we went under the rebrand, and we eventually settled on the name "RealmForged". I dedicated most of my waking hours to working on the server and eventually we launched. 
 
-Now, I'm dedicated to expanding my skills, aiming for a computer engineering degree, and hoping to pursue a career at Valve in my early 20s.
+Now, I'm dedicated to expanding my skills, aiming for a computer engineering degree, and hoping to pursue a career at Valve in my early-mid 20s.
 </details>
 
 ### Contact Me
