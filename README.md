@@ -16,7 +16,8 @@ I'm Milo, a high school student with a passion for software engineering and crea
 |<img src="https://img.shields.io/badge/Python%20-%20%23000000?style=flat&logo=Python&logoColor=f7ce3d" height=32></img>|7.25/10, I Know Some Stuff|
 |<img src="https://img.shields.io/badge/CSharp%20-%20%23000000?style=flat&logo=Sharp&logoColor=9b4993" height=32></img>|7/10, Still Learning|
 |<img src="https://img.shields.io/badge/Bash%20-%20%23000000?style=flat&logo=GNUBash&logoColor=272e35" height=32></img>|7/10, I Use It On Occasion|
-|<img src="https://img.shields.io/badge/C++%20-%20%23000000?style=flat&logo=Cplusplus&logoColor=00599C" height=32></img>|4/10, I'm alright at it.|<img src="https://img.shields.io/badge/PHP%20-%20%23000000?style=flat&logo=PHP&logoColor=787cb5" height=32></img>|3/10, I Hate This Language
+|<img src="https://img.shields.io/badge/C++%20-%20%23000000?style=flat&logo=Cplusplus&logoColor=00599C" height=32></img>|4/10, I'm alright at it.
+|<img src="https://img.shields.io/badge/PHP%20-%20%23000000?style=flat&logo=PHP&logoColor=787cb5" height=32></img>|3/10, I Hate This Language
 |<img src="https://img.shields.io/badge/C%20-%20%23000000?style=flat&logo=C&logoColor=A8B9CC" height=32></img>|2/10, It's Hard Ok?|
 |
 
