@@ -27,9 +27,9 @@ I embarked on my programming journey at the age of 13 with a dream of designing 
 
 Dabbling in C#, I ventured into modding a game I was passionate about, finding a warm and welcoming community of moderators. Despite encountering burnout during the final stretch of my mod, I took a break from development, eventually abandoning the project after the games developers added the main idea of the mod to the game.
 
-Roughly 6 months passed by and I joined a Youtuber's minecraft server. I enjoyed the server for a while before asking the now owner of the server if i could join the development team. He decided to give me a chance and let me show my skills. He later gave me a future update to work on, and i focused on adding many features for that update. A few days later, I was informed that the server would be going under a rebrand, as the owner decided that they wanted to step away. The new owner and I would brainstorm names for the server as we went under the rebrand, and we eventually settled on the name "RealmForged". I dedicated most of my waking hours to working on the server and eventually we launched. 
+Roughly 6 months passed by and I joined a Youtuber's minecraft server. I enjoyed the server for a while before asking the now owner of the server if i could join the development team. He decided to give me a chance and let me show my skills. He later gave me a future update to work on, and i focused on adding many features for that update. A few days later, I was informed that the server would be going under a rebrand, as the owner decided that they wanted to step away. The new owner and I would brainstorm names for the server as we went under the rebrand, and we eventually settled on the name "RealmForged". That brings us to today, I've been dedicating most of my waking hours to this project, as i think it has the potential to be great. We're planning on going into beta sometime in october of 2024.
 
-Now, I'm dedicated to expanding my skills, aiming for a computer engineering degree, and hoping to pursue a career at Valve in my early-mid 20s.
+Now, I'm dedicated to expanding my skills, aiming for a computer engineering degree, and hoping to pursue a career at Valve in my 20s.
 </details>
 
 ### Contact Me
