@@ -12,7 +12,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 |<b>Language</b>|<b>Confidence</b>|
 |-|-|
-|<img src="https://img.shields.io/badge/JavaScript%20-%20%23000000?style=flat&logo=Node.js&logoColor=68a063" height=32></img>|9.5/10, My Main Language|
+|<img src="https://img.shields.io/badge/JavaScript%20-%20%23000000?style=flat&logo=Node.js&logoColor=68a063" height=32></img>|9.5/10, My Most Used Language|
 |<img src="https://img.shields.io/badge/Python%20-%20%23000000?style=flat&logo=Python&logoColor=f7ce3d" height=32></img>|7.25/10, I Know Some Stuff|
 |<img src="https://img.shields.io/badge/CSharp%20-%20%23000000?style=flat&logo=Sharp&logoColor=9b4993" height=32></img>|7/10, Still Learning|
 |<img src="https://img.shields.io/badge/Bash%20-%20%23000000?style=flat&logo=GNUBash&logoColor=272e35" height=32></img>|7/10, I Use It On Occasion|
