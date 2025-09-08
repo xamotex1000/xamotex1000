@@ -12,7 +12,8 @@ I'm Milo, a high school student with a passion for software engineering and crea
 |<b>Language</b>|<b>Confidence</b>|
 |-|-|
 |<img src="https://img.shields.io/badge/Python%20-%20%23000000?style=flat&logo=Python&logoColor=f7ce3d" height=32></img>|8.5/10, I'm Fairly Comfortable With It|
-|<img src="https://img.shields.io/badge/JavaScript%20-%20%23000000?style=flat&logo=Node.js&logoColor=68a063" height=32></img>|7/10, Used To Use It A Lot|
+|<img src="https://img.shields.io/badge/JavaScript%20-%20%23000000?style=flat&logo=Node.js&logoColor=68a063" height=32></img>|7.25/10, Used To Use It A Lot|
+|<img src="https://img.shields.io/badge/Java%20-%20%23000000?style=flat&logo=Coffeescript&logoColor=f7ce3d" height=32></img>|7/10, I know it fairly well|
 |<img src="https://img.shields.io/badge/CSharp%20-%20%23000000?style=flat&logo=Sharp&logoColor=9b4993" height=32></img>|6.75/10, Still Learning|
 |<img src="https://img.shields.io/badge/Bash%20-%20%23000000?style=flat&logo=GNUBash&logoColor=12732c" height=32></img>|4/10, Don't Do Much System Scripting|
 |<img src="https://img.shields.io/badge/C++%20-%20%23000000?style=flat&logo=Cplusplus&logoColor=00599C" height=32></img>|2/10, I know basics.
