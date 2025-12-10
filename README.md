@@ -4,7 +4,7 @@ I'm Milo, a high school student with a passion for software engineering and crea
 
 ### About Me
 
- - 🎓 Currently a junior in high school, doing highschool things. 
+ - 🎓 Took GED, admitted to the University of Kansas for Fall 2026
 - 💻 Interested in software engineering, I like to try different programming languages and technologies.
 
 ### Experience
