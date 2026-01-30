@@ -1,6 +1,6 @@
 # Hi, I'm Milo! 👋 
 
-I'm Milo, a high school student with a passion for software engineering and creating random projects. Here's a bit more about me:
+I'm Milo, a dude with a passion for software engineering and creating random projects. Here's a bit more about me:
 
 ### About Me
 
