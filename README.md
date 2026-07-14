@@ -20,5 +20,3 @@ I don't check any other social media dms, but if you wanna talk to me about anyt
 ### Projects
 
 I enjoy building various projects to refine my skills and explore new technologies. Due to several factors, tons of my projects were abandoned half way through development and never saw (or will see) the light of day. I've privated most of these.
-
-![xamotex1000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xamotex1000&title_color=803030&text_color=b1b1b1&border_color=303030&bg_color=000015)
