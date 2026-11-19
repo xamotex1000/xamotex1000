@@ -20,3 +20,5 @@ I don't check any other social media dms, but if you wanna talk to me about anyt
 ### Projects
 
 I enjoy building various projects to refine my skills and explore new technologies. Due to several factors, tons of my projects were abandoned half way through development and never saw (or will see) the light of day. I've privated most of these.
+
+**Currently working on** [NoorlandMC](https://www.noorlandmc.com), a Minecraft server almost entirely made up of our own proprietary plugin suite.
