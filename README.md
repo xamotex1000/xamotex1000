@@ -4,7 +4,7 @@ I'm Milo, I have a passion for software engineering and creating random projects
 
 ### About Me
 
-- 🎓 Took GED, admitted to my hometown university for the Fall of 2026
+- 🎓 Broke College Student
 - 💻 Interested in software engineering, I like making random projects when I have time. My language of choice for non-scripting tasks is Java.
 
 ### Contact Me
